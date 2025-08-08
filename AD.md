@@ -1,7 +1,7 @@
 install a domain controlller
 Active Diretory Domain services with Add roles and features Wizard
 
-![[https://raw.githubusercontent.com/xDU00/blogstuff/refs/heads/main/skibdi%20AD/Screenshot%202025-08-08%20100544.png]]
+![ayo](skibdi AD/Screenshot 2025-08-08 100544.png)
 
 ![[Screenshot 2025-08-08 100810.png]]
 
